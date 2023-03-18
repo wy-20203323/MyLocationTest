@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyLocationTest</string>
+    <string name="button">点击我</string>
+</resources>
